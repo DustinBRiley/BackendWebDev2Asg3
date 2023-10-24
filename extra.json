@@ -1,0 +1,20 @@
+[
+    {
+        "Name" : "Mom",
+        "Phone" : "1234567890",
+        "Email" : "yomomma@hotmail.com",
+        "Address" : "123 Sofat Dr."
+    },
+    {
+        "Name" : "Dad",
+        "Phone" : "0123456789",
+        "Email" : "yodaddy@hotmail.com",
+        "Address" : "321 Sodumb Dr."
+    },
+    {
+        "Name" : "Jessica",
+        "Phone" : "2225552222",
+        "Email" : "jessica@hotmail.com",
+        "Address" : "500 Lincoln Ave"
+    }
+]
