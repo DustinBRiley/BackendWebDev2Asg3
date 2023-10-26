@@ -1,4 +1,12 @@
-* {
-    background-color: black;
-    color:blue;
+li {
+    list-style: none;
+}
+#createform {
+    display: none;
+}
+#updateform {
+    display: none;
+}
+#deleteform {
+    display: none;
 }
